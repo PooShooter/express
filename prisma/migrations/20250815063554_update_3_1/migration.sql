@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "public"."Game" ALTER COLUMN "rating" SET DATA TYPE DOUBLE PRECISION;
